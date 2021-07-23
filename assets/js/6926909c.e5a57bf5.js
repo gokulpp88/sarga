@@ -1,0 +1,1 @@
+(self.webpackChunksarga=self.webpackChunksarga||[]).push([[7592],{1627:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/sarga/blog/tags","slug":"sarga","name":"sarga","count":1,"permalink":"/sarga/blog/tags/sarga"}')}}]);

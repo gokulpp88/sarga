@@ -1,0 +1,1 @@
+(self.webpackChunksarga=self.webpackChunksarga||[]).push([[2535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Anniversary Celebration","permalink":"/sarga/blog/anniversary"}]}')}}]);
