@@ -6,7 +6,7 @@ module.exports = {
   title: 'Sarga Ramanthali',
   tagline: 'REG No: KNR/CA/379/2018',
   url: 'https://sarga.github.io',
-  baseUrl: '/sarga.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sarga.ico',
