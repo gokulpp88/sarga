@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sarga.ico',
   organizationName: 'gokulpp88', // Usually your GitHub org/user name.
-  projectName: 'sarga.github.io', // Usually your repo name.
+  projectName: 'sarga', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Sarga',
