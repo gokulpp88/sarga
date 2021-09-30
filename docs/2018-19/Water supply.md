@@ -9,11 +9,14 @@ sidebar_position: 2
 
 സർഗ്ഗ ഭാരവാഹികളായ ശ്രീ അഖിലേഷ്കുമാർ കാട്ടൂർ, ശ്രീ ഗംഗൻ കക്കോപ്രത്ത് ,ശ്രീ പ്രദീപൻ . കെ.പി, എന്നിവർ ആശംസ അർപ്പിച്ച് സംസാരിച്ചു
 
-## Stage 1
+<!-- ![Organic vegetables](/img/2019/vegetables/1.jpg) -->
+
+[![Water Supply](/img/2019/water/thumb.jpg)](https://fb.watch/8lMOtLkho8/)
+
+<!-- ## Stage 1
 Location :
 ## Stage 2
 Location :
 ## Stage 3
-Location :
-## Stage 4
-Location :
+
+## Stage 4 -->

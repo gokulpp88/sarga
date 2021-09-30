@@ -9,9 +9,9 @@ The club Sarga is situated in the Ramanthali village of Kannur district. Sarga a
 ## 2021-22
 
 ### Bharavahikal
-Photo :TBA
+![Sarga Bharavahikal](/img/bharavahikal21-22.jpg)
 ### Members
-Photo :TBA
+![Sarga Members](/img/members21-22.jpg)
 
 **President :** 
 Akhilesh Kumar
