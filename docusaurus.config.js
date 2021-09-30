@@ -17,7 +17,7 @@ module.exports = {
       title: 'Sarga',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/Sarga.png',
+        src: 'img/sarga.png',
       },
       items: [
         {
