@@ -5,12 +5,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Sarga Ramanthali',
   tagline: 'REG No: KNR/CA/379/2018',
-  url: 'https://gokulpp88.github.io',
-  baseUrl: '/sarga/',
+  url: 'https://sargarmt.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sarga.ico',
-  organizationName: 'gokulpp88', // Usually your GitHub org/user name.
+  organizationName: 'sargarmt', // Usually your GitHub org/user name.
   projectName: 'sarga', // Usually your repo name.
   themeConfig: {
     navbar: {
